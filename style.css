@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.input-group {
+    display: flex;
+    max-width: 25rem;
+}
+
+.card {
+    padding: .5rem;
+    width: 40%;
+    visibility: hidden;
+}
+
+.card-body {
+    text-align: start;
+}
+
+.show-card {
+    padding: .5rem;
+    width: 40%;
+    visibility: visible;
+}
